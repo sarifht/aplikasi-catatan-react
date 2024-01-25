@@ -26,4 +26,8 @@
 
 ## GitHub
 
+https://github.com/sarifht/aplikasi-catatan-react
+
 ## Running via Vercel
+
+https://aplikasi-catatan-react.vercel.app/
