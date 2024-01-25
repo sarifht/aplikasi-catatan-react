@@ -1,6 +1,6 @@
-# Kelas: Belajar Membuat Aplikasi Web dengan React
+## Kelas: Belajar Membuat Aplikasi Web dengan React
 
-# Submissio: Proyek Akhir: Membangun Aplikasi Catatan Menggunakan React
+## Submission: Proyek Akhir: Membangun Aplikasi Catatan Menggunakan React
 
 ## By: Sarif Hidayatullah
 
